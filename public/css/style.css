@@ -1,0 +1,15 @@
+.navbar-laravel, #LogOut  {
+    background-color: #292b2c;
+}
+
+#enlace:hover, #navbarDropdown:hover, .navbar-nav:hover, #logo:hover, #enlaceLogOut:hover{
+    color: #0275d8;
+}
+
+.navbar-laravel .navbar-nav .nav-link, #logo, .navbar-light .navbar-brand, #enlaceLogOut {
+    color: #dee2e6;
+}
+
+body {
+    background-color: #343a40;
+}
